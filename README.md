@@ -1,0 +1,1 @@
+Tully Surface Hopping is a usefull solution to the adiabatic dynamic. Indeed, using a swarm of trajectory permit to perform a probabilistic approach while keeping the concept of trajectory which is a huge advantage compared to Ehrenfest when looking at the trajectory leaving the adiabatic region. 
